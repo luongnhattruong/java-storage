@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.105.1](https://www.github.com/googleapis/java-storage/compare/v1.105.0...v1.105.1) (2020-03-05)
+
+
+### Dependencies
+
+* update core dependencies to v1.93.1 ([#161](https://www.github.com/googleapis/java-storage/issues/161)) ([960572f](https://www.github.com/googleapis/java-storage/commit/960572f047ae94e69046b7a59cf9d0e71c6f2dc0))
+* update dependency com.google.api-client:google-api-client to v1.30.9 ([#154](https://www.github.com/googleapis/java-storage/issues/154)) ([84dfab9](https://www.github.com/googleapis/java-storage/commit/84dfab9a89d8cbe2c22dd9dea7b05ddcc7b3eb62))
+* update dependency com.google.cloud:google-cloud-conformance-tests to v0.0.7 ([#160](https://www.github.com/googleapis/java-storage/issues/160)) ([cbf8082](https://www.github.com/googleapis/java-storage/commit/cbf8082891951966e83315666fd83b58f7ddc0d7))
+
 ## [1.105.0](https://www.github.com/googleapis/java-storage/compare/v1.104.0...v1.105.0) (2020-02-28)
 
 
